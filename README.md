@@ -46,8 +46,15 @@ I’m a passionate software developer who loves building websites and experiment
 
 ---
 
+## 🖥️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techladyvibes&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 📫 How to Reach Me
-Feel free to connect me via email, send an email to [mohpheth.biz@gmail.com](mailto:mohpheth.biz@gmail.com).
+Feel free to connect via email: [mohpheth.biz@gmail.com](mailto:mohpheth.biz@gmail.com).
 
 ---
 
