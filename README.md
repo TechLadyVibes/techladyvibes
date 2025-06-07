@@ -13,8 +13,7 @@
 ---
 
 ## 🚀 About Me
-I’m a passionate software developer who loves building websites and experimenting with new technologies. I enjoy writing clean code, learning every day, and collaborating on open source projects.
-
+I’m a passionate software developer who transforms ideas into reliable, user-friendly applications. I thrive on understanding needs, designing robust solutions, and writing clean, maintainable code. I constantly learn new technologies, test thoroughly, and collaborate with teams to deliver high-quality software.
 ---
 
 ## 🛠️ Tech Stack
