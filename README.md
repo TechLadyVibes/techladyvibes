@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=techladyvibes&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/techladyvibes" alt="GitHub Contribution Chart" />
 </p>
 
 # Hi, I'm Mohpheth Ekhaguere 👋
