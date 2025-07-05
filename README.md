@@ -1,4 +1,6 @@
-<div style="background: linear-gradient(90deg, #000000, #FFD700); padding: 20px; border-radius: 10px;">
+<p align="center">
+  <img src="https://your-image-host.com/gradient-banner.png" alt="Black to Gold Gradient Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=Hi,+I%27m+Mohpheth+Ekhaguere;Software+Developer;Problem+Solver;Lifelong+Learner" alt="Typing Animation" />
@@ -14,17 +16,18 @@
 
 ## 🚀 About Me
 I’m a passionate software developer who transforms ideas into reliable, user-friendly applications. I thrive on understanding needs, designing robust solutions, and writing clean, maintainable code. I constantly learn new technologies, test thoroughly, and collaborate with teams to deliver high-quality software.
+
 ---
 
 ## 🛠️ Tech Stack
 <div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -42,15 +45,15 @@ I’m a passionate software developer who transforms ideas into reliable, user-f
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techladyvibes&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techladyvibes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techladyvibes&show_icons=true&theme=tokyonight&cache_seconds=1&include_all_commits=true" alt="GitHub stats (all commits)" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=techladyvibes&theme=tokyonight&cache_seconds=1&include_all_commits=true" alt="GitHub Streak (all commits)" />
 </p>
 
 ---
 
 ## 🖥️ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techladyvibes&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techladyvibes&layout=compact&theme=tokyonight&cache_seconds=1" alt="Most Used Languages" />
 </p>
 
 ---
@@ -61,5 +64,3 @@ Feel free to connect via email: [mohpheth.biz@gmail.com](mailto:mohpheth.biz@gma
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-</div>
