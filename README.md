@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://your-image-host.com/gradient-banner.png" alt="Black to Gold Gradient Banner" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#000000" />
+        <stop offset="100%" stop-color="#FFD700" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="150" fill="url(#grad)" />
+  </svg>
 </p>
 
 <p align="center">
@@ -46,7 +54,7 @@ I’m a passionate software developer who transforms ideas into reliable, user-f
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techladyvibes&show_icons=true&theme=tokyonight&cache_seconds=1&include_all_commits=true" alt="GitHub stats (all commits)" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=techladyvibes&theme=tokyonight&cache_seconds=1&include_all_commits=true" alt="GitHub Streak (all commits)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techladyvibes&theme=tokyonight&hide_border=true&cache_seconds=1" alt="GitHub Streak (all commits)" />
 </p>
 
 ---
