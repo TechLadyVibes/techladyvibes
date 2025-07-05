@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m a passionate software developer who transforms ideas into reliable, user-friendly applications. I thrive on understanding needs, designing robust solutions, and writing clean, maintainable code. I constantly learn new technologies, test thoroughly, and collaborate with teams to deliver high-quality software.
 
 ---
@@ -71,4 +71,4 @@ Feel free to connect via email: [mohpheth.biz@gmail.com](mailto:mohpheth.biz@gma
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+*“Simplicity is the soul of efficiency.” – Austin Freeman*
