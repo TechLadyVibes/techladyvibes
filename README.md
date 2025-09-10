@@ -11,7 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=Hi,+I%27m+Mohpheth+Ekhaguere;Software+Developer;Problem+Solver;Lifelong+Learner" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=Hi,+I%27m+Mohpheth+Ekhaguere;Software+Developer;Problem+Solver;Lifelong+Learner"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
@@ -52,23 +55,36 @@ I’m a passionate software developer who transforms ideas into reliable, user-f
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techladyvibes&show_icons=true&theme=tokyonight&cache_seconds=1&include_all_commits=true" alt="GitHub stats (all commits)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techladyvibes&theme=tokyonight&hide_border=true&cache_seconds=1" alt="GitHub Streak (all commits)" />
-</p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=techladyvibes&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
+    alt="GitHub stats (public)"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=techladyvibes&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
 ---
 
 ## 🖥️ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techladyvibes&layout=compact&theme=tokyonight&cache_seconds=1" alt="Most Used Languages" />
+  <!-- Public endpoint (repo sizes from public repos only) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=techladyvibes&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
+    height="165"
+  />
 </p>
 
----
+
 
 ## 📫 How to Reach Me
 Feel free to connect via email: [mohpheth.biz@gmail.com](mailto:mohpheth.biz@gmail.com).
 
 ---
 
-*“Simplicity is the soul of efficiency.” – Austin Freeman*
+<p align="center"><em>“Simplicity is the soul of efficiency.” – Austin Freeman</em></p>
