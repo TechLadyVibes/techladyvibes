@@ -23,12 +23,10 @@
   <a href="mailto:mohpheth.biz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
 
 ##  About Me
 I’m a passionate software developer who transforms ideas into reliable, user-friendly applications. I thrive on understanding needs, designing robust solutions, and writing clean, maintainable code. I constantly learn new technologies, test thoroughly, and collaborate with teams to deliver high-quality software.
 
----
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -52,7 +50,6 @@ I’m a passionate software developer who transforms ideas into reliable, user-f
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
----
 
 ## 📈 GitHub Stats
 
@@ -68,11 +65,9 @@ I’m a passionate software developer who transforms ideas into reliable, user-f
     height="165"
   />
 </p>
----
 
 ## 🖥️ Most Used Languages
 <p align="center">
-  <!-- Public endpoint (repo sizes from public repos only) -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=techladyvibes&layout=compact&theme=tokyonight"
     alt="Most Used Languages"
@@ -84,7 +79,5 @@ I’m a passionate software developer who transforms ideas into reliable, user-f
 
 ## 📫 How to Reach Me
 Feel free to connect via email: [mohpheth.biz@gmail.com](mailto:mohpheth.biz@gmail.com).
-
----
 
 <p align="center"><em>“Simplicity is the soul of efficiency.” – Austin Freeman</em></p>
